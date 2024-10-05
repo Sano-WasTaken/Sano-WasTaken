@@ -1,1 +1,1 @@
-Hey i'm the user @Sano_WasTaken, i'm french and i code in Luau for Roblox development.
+Hey i'm @Sano_WasTaken, i'm french and i code in Luau/TS for Roblox development.
